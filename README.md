@@ -6,7 +6,7 @@ Ele contém um texto com vinte parágrafos sobre Tecnologias Web gerado por IA e
 
 ## Funcionamento:
 
-➣ Aguarda receber a solicitação de conexão;/**
+➣ Aguarda receber a solicitação de conexão;\**
 ➣ Aceita e retornar o conteúdo da conexão;
 ➣ As solicitações são processadas em HTTP GET
 
